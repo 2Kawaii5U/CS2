@@ -1,0 +1,16 @@
+James Veith
+jmv5576
+CSCI 142-04 Abdelniser (Nasser) Mooman (axmvcs@rit.edu)
+
+1: Compile: Class should be named Problem1 based on the name of the file, class and file name need to be the same
+   (excluding the .java)
+2: Compile: in.next() returns a string, which is being assigned to an int
+3: Runtime: It is impossible to divide by zero
+4: Compile: y never has it's type declared
+5: Compile: it is possible to miss the return statement
+6: Runtime: there is not a single element in the list, so trying to access any element in the list is out of the bounds
+   of the ArrayList
+7: Compile: "" signifies a string, while '' signifies a char.  strings and chars are different types.
+8: Compile: j was never given a value before it's nonexistent value was used
+9: Compile: 0.0 is a double which you are trying to assign to a float
+10:Runtime: substring is trying to access positions in s1 that don't exist

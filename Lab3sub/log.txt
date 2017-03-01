@@ -1,0 +1,19 @@
+commit 1b4fcf37b6b8123a832cf7dc0feea974256ae763
+Author: James Veith <jmv5576>
+Date:   Tue Feb 17 23:45:08 2015 -0500
+
+    Commented and Cleaned
+
+commit ac8e7211b3ddd07279da3aeaf61cfc23502980a5
+Author: James Veith <jmv5576>
+Date:   Tue Feb 17 22:53:48 2015 -0500
+
+    Created a separate main for the linked queue
+    Finished, need to clean and comment
+
+commit 98891ccc651cfcab348cb511ae12ce1568731869
+Author: James Veith <jmv5576>
+Date:   Tue Feb 17 20:17:58 2015 -0500
+
+    fixed a problem where cases would carry on to higher numbered cases (1 would run 1, 2, and 3).
+    1, 2, and 3 are all completed
